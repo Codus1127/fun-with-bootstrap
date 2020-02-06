@@ -1,0 +1,14 @@
+.top-image img {
+    height: 100%;
+    width: 100%;
+    padding-top: 2rem;
+}
+
+.btn {
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.lead {
+    padding-top: 2rem;
+}
